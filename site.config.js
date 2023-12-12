@@ -11,6 +11,10 @@ const CONFIG = {
     instagram: "luiscassih",
   },
   projects: [
+    {
+      name: `Nothing here`,
+      href: "https://github.com/luiscassih",
+    },
   ],
   // blog setting (required)
   blog: {
